@@ -6,7 +6,7 @@ A sleek, custom GRUB bootloader theme inspired by *Kill Bill*.
 
 ## 📸 Preview
 
-*kill.webp*
+![preview](kill.webp)
 
 ---
 
