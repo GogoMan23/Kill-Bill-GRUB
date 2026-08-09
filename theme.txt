@@ -1,6 +1,6 @@
 title-text: ""
 title-font: "Anton Regular 60"
-desktop-image: "better-bill.jpg"
+desktop-image: "better bill.png"
 terminal-font: "Fera Regular 16"
 terminal-left: "0"
 terminal-top: "0"
