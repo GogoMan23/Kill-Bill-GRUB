@@ -65,7 +65,7 @@ Update your GRUB bootloader configuration:
 To remove the theme:
 
 1. Open `/etc/default/grub` and remove or comment out (`#`) the `GRUB_THEME` line.
-2. Regenerate GRUB configuration (`sudo grub2-mkconfig -o /boot/grub2/grub.cfg`).
+2. Regenerate GRUB configuration.
 3. Delete the theme directory:
     sudo rm -rf /boot/grub/themes/Kill-Bill-GRUB
 
